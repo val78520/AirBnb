@@ -1,33 +1,33 @@
-@import url("/Users/berti/Desktop/Codes B2/composents/card.css");
+@import url("/Users/berti/Desktop/Codes B2/Code 2/AirBnb/composents/card.css");
 
 #lieux1
 {
-  background-image: url("/Users/berti/Desktop/Codes B2/composents/image/lieux1.jpg");
+  background-image: url("/Users/berti/Desktop/Codes B2/AirBnb/composents/image/lieux1.jpg");
 }
 
 #lieux2
 {
-  background-image: url("/Users/berti/Desktop/Codes B2/composents/image/lieux2.jpg");
+  background-image: url("/Users/berti/Desktop/Codes B2/AirBnb/composents/image/lieux2.jpg");
 }
 
 #lieux3
 {
-  background-image: url("/Users/berti/Desktop/Codes B2/composents/image/lieux3.jpg");
+  background-image: url("/Users/berti/Desktop/Codes B2/AirBnb/composents/image/lieux3.jpg");
 }
 
 #lieux4
 {
-  background-image: url("/Users/berti/Desktop/Codes B2/composents/image/lieux4.jpg");
+  background-image: url("/Users/berti/Desktop/Codes B2/AirBnb/composents/image/lieux4.jpg");
 }
 
 #lieux5
 {
-  background-image: url("/Users/berti/Desktop/Codes B2/composents/image/lieux5.jpg");
+  background-image: url("/Users/berti/Desktop/Codes B2/AirBnb/composents/image/lieux5.jpg");
 }
 
 #lieux6
 {
-  background-image: url("/Users/berti/Desktop/Codes B2/composents/image/lieux6.jpg");
+  background-image: url("/Users/berti/Desktop/Codes B2/AirBnb/composents/image/lieux6.jpg");
 }
 
 .corp_layout
